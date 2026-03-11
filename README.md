@@ -41,11 +41,11 @@ using MySQL, Python and Power BI.
 ![Delivery Analysis](plot5_delivery_analysis.png)
 
 ## Dashboard Screenshots
-![Page 1](page1_revenue_overview.png)
-![Page 2](page2_product_analysis.png)
-![Page 3](page3_customer_insights.png)
-![Page 4](page4_delivery_satisfaction.png)
-![Page 5](page5_growth_trends.png)
+![revenue_overview](page1_revenue_overview.png)
+![product_analysis](page2_product_analysis.png)
+![customer_insights](page3_customer_insights.png)
+![delivery_satisfaction](page4_delivery_satisfaction.png)
+![growth_trends](page5_growth_trends.png)
 
 ## Author
 **PRINCE**
