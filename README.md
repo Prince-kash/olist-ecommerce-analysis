@@ -41,10 +41,15 @@ using MySQL, Python and Power BI.
 ![Delivery Analysis](plot5_delivery_analysis.png)
 
 ## Dashboard Screenshots
+### Revenue overview
 ![revenue_overview](page1_revenue_overview.png)
+### Product analysis
 ![product_analysis](page2_product_analysis.png)
+### Customer insights
 ![customer_insights](page3_customer_insights.png)
+### Delivery satisfaction
 ![delivery_satisfaction](page4_delivery_satisfaction.png)
+### Growth trends
 ![growth_trends](page5_growth_trends.png)
 
 ## Author
