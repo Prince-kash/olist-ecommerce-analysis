@@ -34,18 +34,18 @@ using MySQL, Python and Power BI.
 5. Focus inventory on Bed & Bath category
 
 ## Python EDA Plots
-![Monthly Revenue](python_eda/plot1_monthly_revenue.png)
-![Category Revenue](python_eda/plot2_category_revenue.png)
-![Payment Types](python_eda/plot3_payment_types.png)
-![Review Scores](python_eda/plot4_review_scores.png)
-![Delivery Analysis](python_eda/plot5_delivery_analysis.png)
+![Monthly Revenue](plot1_monthly_revenue.png)
+![Category Revenue](plot2_category_revenue.png)
+![Payment Types](plot3_payment_types.png)
+![Review Scores](plot4_review_scores.png)
+![Delivery Analysis](plot5_delivery_analysis.png)
 
 ## Dashboard Screenshots
-![Page 1](dashboard/page1_revenue_overview.png)
-![Page 2](dashboard/page2_product_analysis.png)
-![Page 3](dashboard/page3_customer_insights.png)
-![Page 4](dashboard/page4_delivery_satisfaction.png)
-![Page 5](dashboard/page5_growth_trends.png)
+![Page 1](page1_revenue_overview.png)
+![Page 2](page2_product_analysis.png)
+![Page 3](page3_customer_insights.png)
+![Page 4](page4_delivery_satisfaction.png)
+![Page 5](page5_growth_trends.png)
 
 ## Author
 **PRINCE**
