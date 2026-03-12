@@ -47,11 +47,10 @@ using MySQL, Python and Power BI.
 ![product_analysis](page2_product_analysis.png)
 ### Customer insights
 ![customer_insights](page3_customer_insights.png)
-### Delivery satisfaction
+### Delivery Satisfaction
 ![delivery_satisfaction](page4_delivery_satisfaction.png)
-### Growth trends
+### Growth Trends
 ![growth_trends](page5_growth_trends.png)
-
 ## Author
 **PRINCE**
 - LinkedIn:https://www.linkedin.com/in/prince-3b5a53275/)
